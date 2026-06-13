@@ -54,7 +54,7 @@ This is a projet that I made for fun and to challenge myself during my second ye
 3) Solder 40 switches on one side of the PCB and 40 on the other side of the other PCB
 4) OPTIONAL Solder 6 10k ohms resistors on each PCB.
 5) On the left hand PCB (the one with the switches on the same side as the pico 2 and the TRRS connector), next to the bottom right of the pico 2, cut the upper two traces shown below
-6) 
+
 <p align="center">
 <img width="225" height="400" alt="20260613_170107" src="https://github.com/user-attachments/assets/b51ae2ce-d883-488a-8660-12851e16e584" />
 </p>
