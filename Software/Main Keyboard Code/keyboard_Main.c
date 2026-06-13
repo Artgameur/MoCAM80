@@ -1,4 +1,21 @@
 /*
+ * Copyright (C) 2026  Charles-Antoine Mailhot
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
+/*
  * Split Keyboard – PRIMARY (left) half
  * =====================================
  * • Scans its own 6×7 key matrix  (GP10–GP15 rows, GP0–GP6 cols)
@@ -150,7 +167,7 @@ static const uint8_t RIGHT_KEYMAP[NUM_ROWS][NUM_COLS] = {
     { HID_ENTER, HID_P,    HID_O,    HID_I,    HID_U,    HID_Y,    HID_QUOTE}, // row 2
     { HID_RSHIFT,HID_BSLASH,HID_L,   HID_K,    HID_J,    HID_H,    HID_SEMI }, // row 3
     { HID_RCTRL, HID_DOT,  HID_COMMA,HID_M,    HID_N,    HID_B,    HID_SLASH}, // row 4
-    { HID_NONE,  HID_RALT, HID_SPACE, HID_RBRACKET,HID_LBRACKET,HID_DEL, CONSUMER_PL}, // row 5
+    { HID_NONE,  HID_RALT, HID_SPACE, HID_RBRACKET,HID_LBRACKET,HID_DEL, CONSUMER_PLAY_PAUSE}, // row 5
 };
 
 // ─── Debounce state ───────────────────────────────────────────────────────────
