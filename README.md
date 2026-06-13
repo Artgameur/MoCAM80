@@ -66,7 +66,7 @@ The left half acts as the primary controller while the right half operates as a 
 | 12 | 10 kΩ resistors (internal pull-ups are enabled) |
 
 ## Case
-| Material | Component |
+| Material | Quantiiy |
 |----------|-----------|
 | filament | 300g |
 
