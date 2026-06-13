@@ -4,6 +4,7 @@
 # Table of Contents
 
 * [Introduction](#Introduction)
+* [Quick Description](#Quick%20Description)
 * [Firmware](#Firmware)
 * [Architecture](#Architecture)
 * [Features](#Features)
@@ -20,6 +21,10 @@ This is a project that I made for fun and to challenge myself during my second y
 Since I didn't know much about split keyboards, the thumb cluster ended up being a little unusual. Because I was making a keyboard for a programmer, it had to have a function row. At that point, I knew that the keyboard was going to be larger than standard layouts such as the Lily58 or Corne. Since it was already going to be that large, I thought, "Why not make it bigger?" So I ended up adding 80 keys.
 
 So here is my finished project.
+
+# Quick Description
+
+MoCAM80 is a raspberry pi pico 2 powered 80 key split machanical keyboard. It has a reversible PCB design so that there is only one PCB version for both sides.
 
 # Firmware
 
