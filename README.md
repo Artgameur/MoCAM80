@@ -6,6 +6,8 @@
 * [Images](#Images)
 * [Components](#Components)
 * [Instructions](#Instructions)
+* [Schematic](#Schematic)
+* [PCB](#PCB)
 
 # Introduction
 
@@ -94,3 +96,16 @@ The left half acts as the primary controller while the right half operates as a 
 9. Confirm that everything works correctly.
 
 10. Print the case and assemble the final product.
+
+# Schematic
+
+<img width="1067" height="824" alt="image" src="https://github.com/user-attachments/assets/b36e67d7-3369-43a0-9a87-0c093f392f98" />
+
+# PCB
+## Top Side
+
+<img width="965" height="848" alt="image" src="https://github.com/user-attachments/assets/764f03eb-cab0-4482-81df-8006090c60e6" />
+
+## Bottom Side
+
+<img width="965" height="847" alt="image" src="https://github.com/user-attachments/assets/72050782-879d-434b-ab3e-20e2de4122fb" />
