@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2026  Charles-Antoine Mailhot
+ * Copyright (C) 2026  Artgameur
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
