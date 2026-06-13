@@ -2,6 +2,8 @@
 - [Introduction](#Introduction)
 - [Features](#Ieatures)
 - [Images](#Images)
+- [Components](#Components)
+- [Instructions](#Instructions)
 
 # Introduction
 
@@ -26,3 +28,44 @@ This is a projet that I made for fun and to challenge myself during my second ye
 <img width="2252" height="2250" alt="20260613_152807" src="https://github.com/user-attachments/assets/7e994947-3f52-4ee4-b6a3-fb6306ed325d" />
 
 <img width="4000" height="2252" alt="20260613_152824" src="https://github.com/user-attachments/assets/0d93a70d-f706-4f48-88c9-4cb9090010f7" />
+
+# Components
+
+## PCB Assembly
+### Necessary
+- 80	:	Choc v2 switches
+- 80	:	MX low profile keycaps
+- 2		:	raspberry pi pico 2
+- 2		:	TRRS (jack 4 pad) female connectors
+- 1		:	TRRS (jack 4 pad) wire
+- 1		:	micro-usb data cable
+
+### Optional
+- 12	:	10k ohms resistor (internal pull ups are active)
+
+## Case
+- 300g of filament
+
+
+# Instructions
+
+1) Once you have 2 PCBs, solder 1 raspberry pi pico 2 on each pcb.
+2) Solder 1 female TRRS conncetor on each PCB. (Be carful when handling, as they can lift form the pcb with some pads if plugged to forcefully)  
+3) Solder 40 switches on one side of the PCB and 40 on the other side of the other PCB
+4) OPTIONAL Solder 6 10k ohms resistors on each PCB.
+5) On the left hand PCB (the one with the switches on the same side as the pico 2 and the TRRS connector), next to the bottom right of the pico 2, cut the upper two traces shown below
+6) 
+<p align="center">
+<img width="225" height="400" alt="20260613_170107" src="https://github.com/user-attachments/assets/b51ae2ce-d883-488a-8660-12851e16e584" />
+</p>
+
+6) On the right hand PCB (the one with the switches on the opposite side as the pico 2 and the TRRS connector), next to the bottom right of the pico 2, cut the lower two traces shown below
+
+<p align="center">
+<img width="225" height="400" alt="20260613_170107" src="https://github.com/user-attachments/assets/bcee4b3d-b296-48c0-85e2-dff882e02128" />
+</p>
+
+7) On the left hand PCB upload the [uf2 file for the main board](Software/Compiled%20Files/keyboard_Main.uf2).
+8) On the right hand PCB upload the [uf2 file for the secondary board](Software/Compiled%20Files/keyboard_Secondary.uf2).
+9) Confirm it works.
+10) Print the case and assemble the final product.
