@@ -120,8 +120,9 @@ The left half acts as the primary controller while the right half operates as a 
 # PCB
 ## Top Side
 
-<img width="965" height="848" alt="image" src="https://github.com/user-attachments/assets/764f03eb-cab0-4482-81df-8006090c60e6" />
+<img width="975" height="851" alt="image" src="https://github.com/user-attachments/assets/36280b8b-0c83-4277-8057-dafde2d735b7" />
 
 ## Bottom Side
 
-<img width="965" height="847" alt="image" src="https://github.com/user-attachments/assets/72050782-879d-434b-ab3e-20e2de4122fb" />
+<img width="974" height="853" alt="image" src="https://github.com/user-attachments/assets/fe5c67c6-a313-4545-89d1-a70f8e09f524" />
+
