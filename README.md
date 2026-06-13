@@ -4,7 +4,7 @@
 # Table of Contents
 
 * [Introduction](#Introduction)
-* [Quick Description](#Quick)
+* [Quick Description](#Quick%20Description)
 * [Firmware](#Firmware)
 * [Architecture](#Architecture)
 * [Features](#Features)
@@ -32,7 +32,7 @@ The keyboard uses custom firmware written specifically for the MoCAM80.
 
 The left half acts as the primary controller while the right half operates as a secondary controller connected through TRRS via UART. Precompiled UF2 files are provided in the repository for both halves.
 
-## Architecture
+# Architecture
 
 * Left PCB: main controller (USB HID)
 * Right PCB: secondary matrix scanner
