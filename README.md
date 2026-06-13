@@ -4,7 +4,7 @@
 # Table of Contents
 
 * [Introduction](#Introduction)
-* [Quick Description](#Quick%20Description)
+* [Quick Description](#Quick)
 * [Firmware](#Firmware)
 * [Architecture](#Architecture)
 * [Features](#Features)
