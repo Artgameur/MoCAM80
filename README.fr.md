@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/English-Switch-blue?style=for-the-badge">
+  <img src="https://flagcdn.com/w40/gb.png" width="40" height="28"><img src="https://img.shields.io/badge/English-Switch-blue?style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/badge/Français-Actuel-green?style=for-the-badge">
+  <img src="https://flagcdn.com/w40/fr.png" width="40" height="28"><img src="https://img.shields.io/badge/Français-Actuel-green?style=for-the-badge">
 </p>
 
 # Table des matières
