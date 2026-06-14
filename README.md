@@ -1,9 +1,10 @@
 <img width="4000" height="1482" alt="20260613_152410" src="https://github.com/user-attachments/assets/d5dda976-9baf-4767-b92b-becf465d58ba" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Current-green?style=for-the-badge">
+  <img src="https://flagcdn.com/w40/gb.png" width="40" height="28"><img src="https://img.shields.io/badge/English-Current-green?style=for-the-badge">
+
   <a href="README.fr.md">
-    <img src="https://img.shields.io/badge/Français-Switch-blue?style=for-the-badge">
+    <img src="https://flagcdn.com/w40/fr.png" width="40" height="28"><img src="https://img.shields.io/badge/Français-Switch-blue?style=for-the-badge">
   </a>
 </p>
 
