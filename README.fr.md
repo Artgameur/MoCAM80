@@ -57,11 +57,19 @@ La moitié gauche agit comme contrôleur principal tandis que la moitié droite 
 
 <img width="4000" height="2252" alt="20260613_152410" src="https://github.com/user-attachments/assets/0b5355a9-98e4-48b8-a1e2-0a019dc21814" />
 
+<img width="4000" height="2252" alt="20260621_113730" src="https://github.com/user-attachments/assets/f69631d5-2efb-4f8f-959e-452af3b6b65c" />
+
 <img width="4000" height="1786" alt="20260613_152818" src="https://github.com/user-attachments/assets/78d0a90b-0a48-40f8-94c4-0ce5ff59f23b" />
+
+<img width="4000" height="2252" alt="20260621_113655" src="https://github.com/user-attachments/assets/59d9e749-bfc0-4316-8ee8-2541b8102c20" />
 
 <img width="2252" height="2250" alt="20260613_152758" src="https://github.com/user-attachments/assets/f869b258-23d3-4cb1-96ae-86ac787764e4" />
 
+<img width="2252" height="2334" alt="20260621_113712" src="https://github.com/user-attachments/assets/9c672538-4b03-4efc-b816-a55b47f40afc" />
+
 <img width="2252" height="2250" alt="20260613_152807" src="https://github.com/user-attachments/assets/7e994947-3f52-4ee4-b6a3-fb6306ed325d" />
+
+<img width="2252" height="2360" alt="20260621_113705" src="https://github.com/user-attachments/assets/e4b0c5f8-aa52-4256-ba11-5e75b806aef3" />
 
 <img width="4000" height="2252" alt="20260613_152824" src="https://github.com/user-attachments/assets/0d93a70d-f706-4f48-88c9-4cb9090010f7" />
 
